@@ -46,6 +46,7 @@
 
 <a href='https://github.com/Luan-Neumann-Dev' title='Perfil'>
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=Luan-Neumann-Dev&show_icons=true&theme=dracula'/>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Neumann-Dev&theme=dracula&layout=compact'/>
 </a>
 
 ## Where found me
