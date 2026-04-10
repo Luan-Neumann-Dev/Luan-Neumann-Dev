@@ -2,7 +2,7 @@
 
 - 👀 Exploring new technologies and developing software solutions.
 - 🎓 Studying Software Engineering at the Regional University of Northwestern Rio Grande do Sul State.
-- 💼 Working as a fullstack developer at Abase Sistemas Ltda.
+- 💼 Working as a fullstack developer at ZenFisio
 - 🌱 Currently learning more about AWS and TypeScript.
 
 ## My Skills
