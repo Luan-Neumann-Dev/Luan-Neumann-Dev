@@ -1,64 +1,99 @@
-## 👋 Helloo!, I'm @Luan-Neumann-Dev
+<div align="center">
 
-- 👀 Exploring new technologies and developing software solutions.
-- 🎓 Studying Software Engineering at the Regional University of Northwestern Rio Grande do Sul State.
-- 💼 Working as a fullstack developer at ZenFisio
-- 🌱 Currently learning more about AWS and TypeScript.
+# 👋 Hey, I'm Luan Henrique Neumann
 
-## My Skills
+**Full Stack Developer** · Software Engineering Student · Ijuí, Brazil
 
-**Tools**
+*"Code is not just logic — it's communication. Between you, your team, and whoever comes next."*
 
-<div style="display: inline_block">
-  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vite" height="30" width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png">
-  <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luan-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>          
-  <img align="center" alt="Npm" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"/>          
-  <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Luan-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png">
-  <img align="center" alt="Swagger" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png">
-</div>  
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luan-neumann-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luan.neumann.dev@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Luan-Neumann-Dev&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
-**Utilities**
-
-<div display='flex'>
-  <img align="center" alt="VsCode" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
-  <img align="center" alt="VS" height="30" width="30" src="https://github.com/user-attachments/assets/c822ff8a-05e4-4c75-a526-d0701bf4811e">
-  <img align="center" alt="Postman" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">
-  <img align="center" alt="Insonmia" height="30" width="30" src="https://github.com/user-attachments/assets/4cbd83c1-876d-4a14-b649-0c0ea3c5abaa">
-</div>  
-</br>
-
-**DevOps**
-
-<div style="display: inline_block">
- <img align="center" alt="Git" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="GitHub" height="30" width="30" src="https://github.com/user-attachments/assets/5888568b-06b8-4a7d-9449-b595cd7d630f">
-  <img align="center" alt="GitLab" height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png">
-</div>  
-</br>
-
-<a href='https://github.com/Luan-Neumann-Dev' title='Perfil'>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=Luan-Neumann-Dev&show_icons=true&theme=dracula'/>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Neumann-Dev&theme=dracula&layout=compact'/>
-</a>
-
-## Where found me
-
-<div>  
-  <a href="https://instagram.com/luanneumann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luan.neumann.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luan-neumann-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## About me
 
-<!---
-Luan-Neumann-Dev/Luan-Neumann-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **full stack developer** with hands-on experience building production systems that serve **millions of users**.
+
+I started programming at 19 when I joined my Software Engineering degree — and since then I haven't stopped. In a short time I was already working on government-scale software used by **+200 municipalities** across Brazil, serving **+1 million users**.
+
+Currently at **ZenFisio**, I work on a SaaS platform for physical therapy clinics with **+3,500 active clients** — from maintaining the legacy system to building new features and internal tools from scratch.
+
+- 🎓 Studying **Software Engineering** at UNIJUÍ (2022 → 2027)
+- 💼 Working as **Full Stack Developer** @ ZenFisio
+- 🌱 Currently improving my skills in **TypeScript**, **React/Next.js** and **NestJS**
+- 🌍 Open to **remote opportunities worldwide**
+
+## 🛠️ Tech stack
+
+**Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Tools & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 💼 Experience
+
+| Period | Company | Role | Stack |
+|--------|---------|------|-------|
+| Mar 2025 → Present | **ZenFisio** | Full Stack Developer | Laravel · PHP · MySQL · NestJS |
+| — — — → — — — | **Abase Sistemas Ltda** | Full Stack Developer | C# .NET · PostgreSQL · Ext.js |
+
+> 🏥 At **ZenFisio**, I built an internal support panel used by ~25 team members, centralizing client access and administrative actions across 3,500+ clinics. Currently developing an electronic signature module integrated with the legacy system.
+
+> 🏫 At **Abase**, I worked on a government education platform serving **+1 million students** across **+200 municipalities** in Brazil — covering enrollment, grades, attendance, activities and school menus.
+
+## 🚀 Featured projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 💰 **Personal Finance Organizer** | Dashboard for personal financial management with transaction tracking and reports | React · Next.js · TypeScript |
+| 📧 **Email Campaign System** | Platform for creating and sending email marketing campaigns | Laravel · PHP · MySQL |
+| 🐾 **Pet Adoption Platform** | Full adoption management system connecting pets to their new families | React · Node.js |
+
+> 📂 All projects available at [github.com/Luan-Neumann-Dev](https://github.com/Luan-Neumann-Dev)
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=Luan-Neumann-Dev&show_icons=true&theme=dracula'/>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Neumann-Dev&theme=dracula&layout=compact'/>
+</div>
+
+---
+
+<div align="center">
+
+🌍 **Open to remote opportunities worldwide**
+
+📬 [luan.neumann.dev@gmail.com](mailto:luan.neumann.dev@gmail.com) · [LinkedIn](https://linkedin.com/in/luan-neumann-dev) · [GitHub](https://github.com/Luan-Neumann-Dev)
+
+</div>
