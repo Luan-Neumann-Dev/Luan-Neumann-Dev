@@ -1,13 +1,14 @@
+<div align="center">
 # 👋 Hey, I'm Luan Henrique Neumann
-
+ 
 **Full Stack Developer** · Software Engineering Student · Ijuí, Brazil
-
+ 
 *"Code is not just logic — it's communication. Between you, your team, and whoever comes next."*
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luan-neumann-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luan.neumann.dev@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Luan-Neumann-Dev&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-
+ 
 </div>
 
 ## About me
