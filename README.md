@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hey, I'm Luan Henrique Neumann
 
 **Full Stack Developer** · Software Engineering Student · Ijuí, Brazil
@@ -61,25 +59,10 @@ Currently at **ZenFisio**, I work on a SaaS platform for physical therapy clinic
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 💼 Experience
-
-| Period | Company | Role | Stack |
-|--------|---------|------|-------|
-| Mar 2025 → Present | **ZenFisio** | Full Stack Developer | Laravel · PHP · MySQL · NestJS |
-| — — — → — — — | **Abase Sistemas Ltda** | Full Stack Developer | C# .NET · PostgreSQL · Ext.js |
-
-> 🏥 At **ZenFisio**, I built an internal support panel used by ~25 team members, centralizing client access and administrative actions across 3,500+ clinics. Currently developing an electronic signature module integrated with the legacy system.
-
-> 🏫 At **Abase**, I worked on a government education platform serving **+1 million students** across **+200 municipalities** in Brazil — covering enrollment, grades, attendance, activities and school menus.
+![Experience](https://github.com/user-attachments/assets/d9164eb0-fe30-4219-9446-5f5c622d045f)
 
 ## 🚀 Featured projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 💰 **Personal Finance Organizer** | Dashboard for personal financial management with transaction tracking and reports | React · Next.js · TypeScript |
-| 📧 **Email Campaign System** | Platform for creating and sending email marketing campaigns | Laravel · PHP · MySQL |
-| 🐾 **Pet Adoption Platform** | Full adoption management system connecting pets to their new families | React · Node.js |
-
-> 📂 All projects available at [github.com/Luan-Neumann-Dev](https://github.com/Luan-Neumann-Dev)
+![Projects](https://github.com/user-attachments/assets/61b57766-96f1-4d9a-a328-2fc6c62f6a5a)
 
 ## 📊 GitHub stats
 
